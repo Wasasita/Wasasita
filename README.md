@@ -42,12 +42,19 @@ You can click the Preview link to take a look at your changes.⭐
 
 ---
 
+### 🧠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
+
+---
+
 ### 🌟 Featured Projects
 
 - 🔧 [**HoloAI**](https://github.com/your-holoai-link) – Modular AI middleware that loads assets into Unity via WebSockets.
 - 🕹 [**Everrain VR**](https://github.com/your-everrain-link) – Multiplayer fortress defense VR game with terrain design and optimized visuals.
-- 🤖 [**YT Highlight Extractor**](https://github.com/your-yt-highlight-link) – Python tool that identifies video highlights using heatmaps and Tkinter GUI.
-- 📱 [**Path to Progress**](https://github.com/your-path-progress-link) – Self-improvement app with goal tracking and Google Maps API.
 
 ---
 
@@ -58,4 +65,16 @@ You can click the Preview link to take a look at your changes.⭐
 - 📧 analaura.larosap@gmail.com
 
 ---
+
+testing some extra things:
+![Visitors](https://komarev.com/ghpvc/?username=Wasasita&style=flat-square&color=blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wasasita&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Snake animation](https://github.com/Wasasita/Wasasita/blob/output/github-contribution-grid-snake.svg)
+
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasasita&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasasita&layout=compact&theme=tokyonight)
+
+
 
