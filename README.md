@@ -40,34 +40,25 @@ You can click the Preview link to take a look at your changes.⭐
 
 ### 🛠 Tech Stack
 
-<p> Languages</p>
-
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-
-<p> Tools & Frameworks</p>
-
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dotnet)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
-
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat&logo=openai)
+![WebSocket](https://img.shields.io/badge/-WebSocket-2C8EBB?style=flat&logo=websocket)
 
 <p> Game Development</p>
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?style=flat&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender)
-
-<p> AI & Data</p>
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat&logo=openai)
-![WebSocket](https://img.shields.io/badge/-WebSocket-2C8EBB?style=flat&logo=websocket)
 
 ---
 
