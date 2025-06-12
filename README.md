@@ -24,10 +24,14 @@ You can click the Preview link to take a look at your changes.⭐
 
 ---
 
+![Visitors](https://komarev.com/ghpvc/?username=Wasasita&style=flat-square&color=blue)
+
+---
+
 ### 👩‍💻 About Me
 
 - 🎓 CS student @ University of Central Florida (Grad May 2025)
-- 💡 Building immersive VR games, AI-powered tools, and full-stack apps
+- 💡 Building immersive VR games🎮, AI-powered tools🤖, and full-stack apps ⚙️.
 - 🎮 Experienced with Unity, Unreal Engine, WebSockets, and AI pipelines
 - 🌱 Currently learning advanced networking & game systems integration
 - ✨ Passionate about turning bold ideas into real, interactive experiences
@@ -36,15 +40,7 @@ You can click the Preview link to take a look at your changes.⭐
 
 ### 🛠 Tech Stack
 
-| Languages | Tools & Frameworks | Game Dev | AI & Data |
-|----------|--------------------|----------|-----------|
-| C#, Python, Go, JavaScript, Java | React, Node.js, SQL, ASP.NET, Bash | Unity, Unreal, Blender | PyTorch, LLM APIs, WebSocket |
-
----
-
-### 🧠 Tech Stack
-
-<h1>🧠 Languages</h1>
+<h1> Languages</h1>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -52,7 +48,7 @@ You can click the Preview link to take a look at your changes.⭐
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
-<h1>⚙️ Tools & Frameworks</h1>
+<h1> Tools & Frameworks</h1>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
@@ -61,13 +57,13 @@ You can click the Preview link to take a look at your changes.⭐
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
 
 
-<h1>🎮 Game Development</h1>
+<h1> Game Development</h1>
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?style=flat&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender)
 
-<h1>🤖 AI & Data</h1>
+<h1> AI & Data</h1>
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![OpenAI](https://img.shields.io/badge/-LLM%20APIs-412991?style=flat&logo=openai)
@@ -90,8 +86,6 @@ You can click the Preview link to take a look at your changes.⭐
 
 ---
 
-testing some extra things:
-![Visitors](https://komarev.com/ghpvc/?username=Wasasita&style=flat-square&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasasita&layout=compact&theme=tokyonight)
 
 
