@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.⭐
 
 ### 👩‍💻 About Me
 
-- 🎓 CS student @ University of Central Florida (Grad May 2025)
+- 🎓 CS alumna @ University of Central Florida (Grad May 2025)
 - 💡 Building immersive VR games🎮, AI-powered tools🤖, and full-stack apps ⚙️.
 - 🎮 Experienced with Unity, Unreal Engine, WebSockets, and AI pipelines
 - 🌱 Currently learning advanced networking & game systems integration
