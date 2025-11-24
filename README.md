@@ -84,9 +84,6 @@ https://mobacarhub.preview.emergentagent.com
 - 💼 [LinkedIn](https://linkedin.com/in/ana-larosa)
 - 📧 analaura.larosap@gmail.com
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasasita&layout=compact&theme=tokyonight)
 
 
 
