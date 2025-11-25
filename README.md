@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.⭐
 ---
 ### Check out my upcoming car game
 
-[https://car-game-frontend-jqxourat1-wasasitas-projects.vercel.app](https://car-game-frontend-jqxourat1-wasasitas-projects.vercel.app/)
+[https://car-game-frontend-jqxourat1-wasasitas-projects.vercel.app]( https://car-game-frontend-jqxourat1-wasasitas-projects.vercel.app)
 
 ### 👩‍💻 About Me
 
