@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.⭐
 
 ### 🌟 Featured Projects
 
-- 🔧 [**HoloAI MiddleWare**](https://github.com/METIL-HoloAI/HoloTable-Middleware) [**HoloAI Unity**](https://github.com/IST-METIL/Novac2-Unity-SD) – Modular AI middleware that loads assets into Unity via WebSockets.
+- 🔧 [**HoloAI MiddleWare**](https://github.com/METIL-HoloAI/HoloTable-Middleware) and [**HoloAI Unity**](https://github.com/IST-METIL/Novac2-Unity-SD) – Modular AI middleware that loads assets into Unity via WebSockets.
 - 🕹 [**Everrain VR**](https://www.youtube.com/watch?v=nXHJNfEhYhY&ab_channel=elaine ) – Multiplayer fortress defense VR game with terrain design and optimized visuals.
 - [**Order Matching Engine**](https://github.com/Wasasita/order-matching-engine) – "Low-latency C++ Order Matching Engine with price-time priority and automated tests."
 
