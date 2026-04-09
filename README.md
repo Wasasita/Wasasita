@@ -34,10 +34,15 @@ You can click the Preview link to take a look at your changes.⭐
 ### 👩‍💻 About Me
 
 - 🎓 CS alumna @ University of Central Florida (Grad May 2025)
-- 💡 Building immersive VR games🎮, AI-powered tools🤖, and full-stack apps ⚙️.
-- 🎮 Experienced with Unity, Unreal Engine, WebSockets, and AI pipelines
-- 🌱 Currently learning advanced networking & game systems integration
-- ✨ Passionate about turning bold ideas into real, interactive experiences
+- 💼 Freelance Full-Stack Software Developer building modern web experiences and scalable systems
+- ☁️ Currently integrating CI/CD pipelines, AWS services, and database architectures into my workflows
+
+ ### ⚙️ More Things I’m Also Doing
+ 
+- 💡 Building immersive VR games🎮 and full-stack apps ⚙️.
+- 🎮 Experienced with Unity, Unreal Engine, WebSockets, and AI pipelines.
+- 🌱 Currently learning advanced networking & game systems integration aswell as fintech and game mathematics.
+- ✨ Passionate about turning bold ideas into real, interactive experiences.
 
 ---
 
